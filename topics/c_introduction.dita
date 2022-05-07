@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_introduction">
+    <title>Introduction</title>
+    <shortdesc>About Mimo</shortdesc>
+    <conbody>
+        <p>Mimo is one of the most popular coding applications available. It has been downloaded
+            over 10 million times. Its aim is to faciliate coding-learning and to make it accesible
+            for everyone. Mimo offers lessons of web development as wel as Phyton or SQL.</p>
+        <p>Every subject is devided into small lessons, so that you learn step by step. Apart from
+            the lessons, you can practice what you have learnt with featured projects and coding
+            challenges.</p>
+        <p>There is also a community feature that enables you to communicate with other users of the
+            application.</p>
+        <section id="section_g5g_dxc_ltb">
+            <title>Is Mimo for you?</title>
+            <p>Mimo is a good solution for you if you want to learn coding but you prefer to learn
+                step by step. The material is devided into small lesson allowing you to learn one
+                skill at the time. It is also suitable for you if you do not have a lot of time.
+                With Mimo you can learn anywhere with your mobile phone. It can take only a couple
+                of minutes to finish a single lesson.</p>
+        </section>
+        <section id="section_uy1_2xc_ltb">
+            <title>How can you benefit from using Mimo?</title>
+            <p>Mimo helps you to start to learn coding, as well as practicing what you are already
+                familiar with. The content and the structure of the lessons make it easy and fun to
+                learn. If you do them reguralily, you will get the hang of coding in short time.
+            </p>
+        </section>
+    </conbody>
+</concept>

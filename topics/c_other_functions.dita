@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_other_functions">
+    <title>Elements</title>
+    <shortdesc>Other elements of Mimo app</shortdesc>
+    <conbody>
+        <ul id="ul_gjl_2rn_ftb">
+            <li><b>Leaderboard</b><fig id="fig_xmv_cj4_ftb">
+                    <title>Leaderboard</title>
+                    <image href="../Skriny/elements/Mimo_leaderboard.jpg" width="150" height="300"
+                        id="image_ymv_cj4_ftb"/>
+                </fig><p>On leaderboard you can see your current standings, check your league and
+                    see your competition. The leaderboard is updated every week. There are five
+                    leagues, starting from Wooden. You have to be in the top 10 to advance to the
+                    next league. </p></li>
+            <li><b>Community</b><fig id="fig_y4h_fk4_ftb">
+                    <title>Community</title>
+                    <image href="../Skriny/elements/Mimo_elements_community.jpg" width="150"
+                        height="300" id="image_z4h_fk4_ftb"/>
+                </fig><p>You can use this feature to communicate with the community of learners and
+                    look for useful information.</p></li>
+            <li><b>Mimo store</b><fig id="fig_qnq_gn4_ftb">
+                    <title>Mimo Store</title>
+                    <image href="../Skriny/elements/Mimo_mimostore.jpg" width="150" height="300"
+                        id="image_rnq_gn4_ftb"/>
+                </fig><p>You receive coins after completing lessons. You can access Mimo Store to
+                    exchange your coins for: streak freeze, streak repair and league protection.
+                    With streak freeze you can keep your streak going if you have 24 hours of
+                    inactivity. You can use streak repair to repair the most recent day of
+                    inactivity. With league protection you can protect yourself from dropping to a
+                    lower league when you end up in the danger zone.</p></li>
+            <li>Activity<fig id="fig_xhf_3t4_ftb">
+                    <title>Activity</title>
+                    <image href="../Skriny/elements/Mimo_activity.jpg" width="150" height="300"
+                        id="image_yhf_3t4_ftb"/>
+                </fig><p>Activity tabs shows you the days when you completed lessons. It shows you
+                    your current streak as well. The streak is the number of days in a row you have
+                    completed a lesson. Your streak will increase by 1 day once you finish a
+                    lesson.</p></li>
+            <li>Playgrounds<p>Playground is an option that allows you to practice what you have
+                    learned. </p></li>
+        </ul>
+    </conbody>
+</concept>

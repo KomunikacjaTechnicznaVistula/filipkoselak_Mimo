@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map chunk="to-content">
+    <title>Learning to code with Mimo</title>
+    <topicmeta>
+        <author>Filip Koselak</author>
+    </topicmeta>
+    <topicref href="topics/c_introduction.dita" chunk="to-content"/>
+    <topicref href="topics/c_installing_the_application.dita" chunk="to-content">
+        <topicref href="topics/t_installing.dita"/>
+    </topicref>
+    <topicref href="topics/c_lesson.dita" chunk="to-content">
+        <topicref href="topics/t_how_to_learn_with_mimo.dita"/>
+    </topicref>
+    <topicref href="topics/c_other_functions.dita" chunk="to-content">
+        <topicref href="topics/t_using_other_functions_of_mimo.dita"/>
+    </topicref>
+    <topicref href="topics/c_settings.dita" chunk="to-content">
+        <topicref href="topics/t_settings.dita"/>
+    </topicref>
+    <!--The reltable is no longer needed since you have chunked all topics with their children-->
+    <!--    <reltable>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_installing_the_application.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_installing.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_lesson.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_how_to_learn_with_mimo.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_other_functions.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_using_other_functions_of_mimo.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="topics/c_settings.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="topics/t_settings.dita"/>
+            </relcell>
+        </relrow>
+    </reltable>-->
+</map>

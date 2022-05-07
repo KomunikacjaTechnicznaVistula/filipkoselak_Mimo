@@ -1,0 +1,1 @@
+define({"topics":[{"title":"How do I start using Mimo","shortdesc":"<p class=\"shortdesc\">How to install the application and set up an account<\/p>","href":"topics\/c_installing_the_application.html#t_installing","attributes":{"data-id":"t_installing"},"menu":{"hasChildren":false},"tocID":"t_installing-d176e44","topics":[]}]});

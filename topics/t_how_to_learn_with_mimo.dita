@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_learn_with_mimo">
+    <title>How to study with Mimo</title>
+    <shortdesc>Steps on how to complete a lesson on Mimo </shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on "Learn" icon below to start a lesson.</cmd>
+                <info>
+                    <fig id="fig_az2_ldx_3tb">
+                        <title>Starting a lesson</title>
+                        <image
+                            href="../Skriny/lesson/Screenshot_20220427-152422_Mimo%20-%20C%C3%B3pia.jpg"
+                            width="150" height="300" id="image_bz2_ldx_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on the icon with a name of path in the upper left corner.</cmd>
+                <info>
+                    <fig id="fig_mjp_g2x_3tb">
+                        <title>Starting a lesson</title>
+                        <image
+                            href="../Skriny/lesson/Screenshot_20220427-152422_Mimo%20-%20C%C3%B3pia%20(2).jpg"
+                            width="150" height="300" id="image_njp_g2x_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Chose the path you want to learn from:</cmd>
+                <info>
+                    <ul id="ul_fmt_s5n_ftb">
+                        <li>Web Development</li>
+                        <li>Python</li>
+                        <li>SQL.</li>
+                    </ul>
+                    <fig id="fig_trs_k2x_3tb">
+                        <title>Chosing a path</title>
+                        <image href="../Skriny/lesson/Screenshot_20220427-152402_Mimo.jpg"
+                            width="150" height="300" id="image_urs_k2x_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose a subject you want to learn by clicking on it. You have to finish all
+                    the lessons from a subject to unlock the next one. </cmd>
+                <info>
+                    <fig id="fig_y3y_n2x_3tb">
+                        <title>Chosing a subject</title>
+                        <image href="../Skriny/lesson/Screenshot_20220427-152439_Mimo.jpg"
+                            width="150" height="300" id="image_z3y_n2x_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose a lesson you are interested in. You have to finish a lesson to unlock
+                    the next one.</cmd>
+                <info>
+                    <fig id="fig_mcz_w2x_3tb">
+                        <title>Choosing a lesson</title>
+                        <image href="../Skriny/lesson/Screenshot_20220427-152422_Mimo.jpg"
+                            width="150" height="300" id="image_ncz_w2x_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Follow the instructions to complete the task. There are three types of
+                    exercises:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Choose the right elements in the right order by clicking on them.</cmd>
+                        <info>
+                            <fig id="fig_s1v_23c_jtb">
+                                <title>1. Type of exercises</title>
+                                <image href="../Skriny/lesson/Screenshot_20220427-152504_Mimo.jpg"
+                                    width="150" height="300" id="image_t1v_23c_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Type the answer that you are asked to give.</cmd>
+                        <info>
+                            <fig id="fig_shy_zkc_jtb">
+                                <title>2. Type of exercises</title>
+                                <image href="../Skriny/lesson/Screenshot_20220427-160851_Mimo.jpg"
+                                    width="150" height="300" id="image_thy_zkc_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>In this type of exercises you have to choose a correct answer from the
+                            given options.</cmd>
+                        <info>
+                            <fig id="fig_dgg_2lc_jtb">
+                                <title>3. Type of exercises</title>
+                                <image href="../Skriny/lesson/Screenshot_20220427-160613_Mimo.jpg"
+                                    width="150" height="300" id="image_egg_2lc_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Use the following buttons to navigate the task:</cmd>
+                <info>
+                    <fig id="fig_nlq_xnc_jtb">
+                        <title>Completing the task</title>
+                        <image href="../Skriny/lesson/Screenshot_20220428-091023_Mimo.jpg"
+                            width="150" height="300" id="image_olq_xnc_jtb"/>
+                    </fig>
+                </info>
+                <substeps>
+                    <substep>
+                        <cmd>Click on this button to completely cancel your answer.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click on this button to cancel only the last element of your
+                            answer.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Click on this button to submit your answer.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>If the answer is correct, "CONTINUE" button appears. Click on it to continue
+                    learning.</cmd>
+                <info>
+                    <fig id="fig_avf_c5c_jtb">
+                        <title>Right answer</title>
+                        <image
+                            href="../Skriny/lesson/Screenshot_20220427-152553_Mimo%20-%20C%C3%B3pia.jpg"
+                            width="150" height="300" id="image_bvf_c5c_jtb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>If the answer is wrong, "SKIP" and "TRY AGAIN" buttons appear. Click on "SKIP"
+                    button if you want to go to another question or click on "TRY AGAIN" button if
+                    you want to give a new answer.</cmd>
+                <info>
+                    <fig id="fig_zhw_rtc_jtb">
+                        <title>Incorrect answer</title>
+                        <image href="../Skriny/lesson/Screenshot_20220427-152540_Mimo.jpg"
+                            width="150" height="300" id="image_a3w_rtc_jtb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Coding/browser view.</cmd>
+            </step>
+            <step>
+                <cmd>After completing the lesson you receive points and coins.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the "Glossary" button (the one with a book) to open glossary.</cmd>
+                <info>
+                    <fig id="fig_zkr_q5c_jtb">
+                        <title>Glossary button</title>
+                        <image
+                            href="../Skriny/lesson/Screenshot_20220427-152422_Mimo%20-%20C%C3%B3pia%20(3).jpg"
+                            width="150" height="300" id="image_alr_q5c_jtb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on any element to see its definition.</cmd>
+                <info>
+                    <fig id="fig_ujl_p1d_jtb">
+                        <title>Glossary</title>
+                        <image href="../Skriny/elements/Screenshot_20220428-103553_Mimo.jpg"
+                            width="150" height="300" id="image_vjl_p1d_jtb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

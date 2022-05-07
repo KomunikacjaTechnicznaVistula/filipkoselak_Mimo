@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_settings">
+    <title>How to change the settings</title>
+    <shortdesc>Account setup, password reset, deleting an account, logging out</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open settings.</cmd>
+                <substeps id="substeps_r2h_2w4_ftb">
+                    <substep>
+                        <cmd>Click on "profile" icon below.</cmd>
+                        <info>
+                            <fig id="fig_jnv_3w4_ftb">
+                                <title>Profile tab</title>
+                                <image
+                                    href="../Skriny/settings/Mimoscrnsht_Profile%20-%20C%C3%B3pia.jpg"
+                                    width="150" height="300" id="image_knv_3w4_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Click on "settings" icon in the upper right corner.</cmd>
+                        <info>
+                            <fig id="fig_aff_nw4_ftb">
+                                <title>Settings icon</title>
+                                <image
+                                    href="../Skriny/settings/Mimoscrnsht_Profile%20-%20C%C3%B3pia%20(2).jpg"
+                                    width="150" height="300" id="image_bff_nw4_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Now you can change the settings.</cmd>
+                        <info>
+                            <fig id="fig_ppt_tw4_ftb">
+                                <title>Settings</title>
+                                <image
+                                    href="../Skriny/settings/Mimo_scrnsht_settings%20-%20C%C3%B3pia.jpg"
+                                    width="150" height="300" id="image_qpt_tw4_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Change profile photo.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click on "change profile picture".</cmd>
+                        <info>
+                            <fig id="fig_ll4_1kd_jtb">
+                                <title>Changing profile picture</title>
+                                <image
+                                    href="../Skriny/settings/Mimo_scrnsht_settings%20-%20C%C3%B3pia%20(2).jpg"
+                                    width="150" height="300" id="image_ml4_1kd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd> Select the source of your new photo.</cmd>
+                        <info>
+                            <fig id="fig_fdz_mkd_jtb">
+                                <title>Source of the picture</title>
+                                <image
+                                    href="../Skriny/settings/Screenshot_20220428-121413_Android%20System.jpg"
+                                    width="150" height="300" id="image_gdz_mkd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Select the photo.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Adjust the photo.</cmd>
+                        <info>
+                            <fig id="fig_dpq_dx4_ftb">
+                                <title>Adjusting the picture</title>
+                                <image href="../Skriny/settings/Mimo_skrnsht_photo.jpg" width="150"
+                                    height="300" id="image_epq_dx4_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Now press on "crop" in the upper right corner.</cmd>
+                        <info>
+                            <fig id="fig_om2_hy4_ftb">
+                                <title>Cropping the picture</title>
+                                <image
+                                    href="../Skriny/settings/Mimo_skrnsht_photo%20-%20C%C3%B3pia.jpg"
+                                    width="150" height="300" id="image_pm2_hy4_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Set up the sound effects.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click on the toggle bar to switch it on or off.</cmd>
+                        <info>
+                            <fig id="fig_fty_zld_jtb">
+                                <title>Sound effects off</title>
+                                <image href="../Skriny/settings/Screenshot_20220428-122049_Mimo.jpg"
+                                    width="250" height="100" id="image_gty_zld_jtb"/>
+                            </fig>
+                            <fig id="fig_c5m_cmd_jtb">
+                                <title>Sound effects on</title>
+                                <image
+                                    href="../Skriny/settings/Mimo_scrnsht_settings%20-%20C%C3%B3pia%20-%20C%C3%B3pia%20(2).jpg"
+                                    width="250" height="100" id="image_d5m_cmd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Change password.</cmd>
+                <substeps id="substeps_cyc_jy4_ftb">
+                    <substep>
+                        <cmd>Click on "change password".</cmd>
+                        <info>
+                            <fig id="fig_l4d_xy4_ftb">
+                                <title>Password reset</title>
+                                <image
+                                    href="../Skriny/settings/Mimo_scrnsht_settings%20-%20C%C3%B3pia%20-%20C%C3%B3pia.jpg"
+                                    width="150" height="300" id="image_m4d_xy4_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Introduce your e-mail addres in "your email" window.</cmd>
+                        <info>
+                            <fig id="fig_gzy_qz4_ftb">
+                                <title>Introducing your password</title>
+                                <image
+                                    href="../Skriny/settings/Mimo_passwordreset%20-%20C%C3%B3pia.jpg"
+                                    width="150" height="300" id="image_hzy_qz4_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Click on "reset password" button.</cmd>
+                        <info>
+                            <fig id="fig_l3b_31p_ftb">
+                                <title>Finalizing the process</title>
+                                <image href="../Skriny/settings/Mimo_passwordreset.jpg" width="150"
+                                    height="300" id="image_m3b_31p_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Delete account.</cmd>
+                <substeps id="substeps_i4z_zv4_ftb">
+                    <substep>
+                        <cmd>Click on "delete account".</cmd>
+                        <info>
+                            <fig id="fig_b2h_l1p_ftb">
+                                <title>Delete account 1</title>
+                                <image
+                                    href="../Skriny/settings/Mimo_settings_logoutreset%20-%20C%C3%B3pia.jpg"
+                                    width="150" height="300" id="image_c2h_l1p_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Click on "delete" button to complete the delete.</cmd>
+                        <info>
+                            <fig id="fig_omp_s1p_ftb">
+                                <title>Delete account 2</title>
+                                <image href="../Skriny/settings/mimo_settings_pswrdrst.jpg"
+                                    width="150" height="300" id="image_pmp_s1p_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Log out.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click on "log out".</cmd>
+                        <info>
+                            <fig id="fig_n5z_32p_ftb">
+                                <title>Log out</title>
+                                <image
+                                    href="../Skriny/settings/Mimo_settings_logoutreset%20-%20C%C3%B3pia%20(2).jpg"
+                                    width="150" height="300" id="image_o5z_32p_ftb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

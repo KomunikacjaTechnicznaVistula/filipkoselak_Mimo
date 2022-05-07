@@ -1,0 +1,1 @@
+define({"topics":[{"title":"How to change the settings","shortdesc":"<p class=\"shortdesc\">Account setup, password reset, deleting an account, logging out<\/p>","href":"topics\/c_settings.html#t_settings","attributes":{"data-id":"t_settings"},"menu":{"hasChildren":false},"tocID":"t_settings-d176e126","topics":[]}]});

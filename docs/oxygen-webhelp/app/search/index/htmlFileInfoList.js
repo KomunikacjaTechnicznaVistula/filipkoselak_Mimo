@@ -1,0 +1,3 @@
+define(function () {
+return ["cshelp.html@@@Context Sensitive Help@@@...","mimo_map.html@@@***@@@...","topics/c_installing_the_application.html@@@Installing the application@@@Setting up Mimo...","topics/c_introduction.html@@@Introduction@@@About Mimo...","topics/c_lesson.html@@@Learning with Mimo@@@How to complete a lesson...","topics/c_other_functions.html@@@Elements@@@Other elements of Mimo app...","topics/c_settings.html@@@Settings@@@How to change settings..."];
+});

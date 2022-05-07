@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_installing">
+    <title>How do I start using Mimo</title>
+    <shortdesc>How to install the application and set up an account</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Open Google Play Store and look for Mimo. Once you find it, click on the
+                    "install" button.</cmd>
+                <info>
+                    <fig id="fig_pnt_hyw_3tb">
+                        <title>Downloading Mimo from Google Play Store</title>
+                        <image
+                            href="../Skriny/Instalacja/Screenshot_20220325-161734_Google%20Play%20Store.jpg"
+                            width="250" height="300" id="image_qnt_hyw_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on the "Get started" button in order to create a new account.</cmd>
+                <info>
+                    <fig id="fig_ndf_myw_3tb">
+                        <title>Getting started</title>
+                        <image href="../Skriny/Instalacja/Screenshot_20220325-161922_Mimo.jpg"
+                            width="150" height="300" id="image_odf_myw_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on the "Let's go" button to continue creating your account.</cmd>
+                <info>
+                    <fig id="fig_txy_4yw_3tb">
+                        <title>Introduction</title>
+                        <image href="../Skriny/Instalacja/Screenshot_20220325-161928_Mimo.jpg"
+                            width="150" height="300" id="image_uxy_4yw_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose one of the following options to state why you are interested in learning
+                    to code:</cmd>
+                <info>
+                    <ul id="ul_gl2_lgs_zsb">
+                        <li>To become a professional developer</li>
+                        <li>Just for fun</li>
+                        <li>For my current job</li>
+                        <li>For a different reason.</li>
+                    </ul>
+                    <fig id="fig_ih2_vyw_3tb">
+                        <title>Motive</title>
+                        <image href="../Skriny/Instalacja/Screenshot_20220325-161952_Mimo.jpg"
+                            width="150" height="300" id="image_jh2_vyw_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose the option that decribes your occupation from the following
+                    options:</cmd>
+                <info>
+                    <ul id="ul_ojm_lhs_zsb">
+                        <li>High school student</li>
+                        <li>University student</li>
+                        <li>Employee</li>
+                        <li>None of those.</li>
+                    </ul>
+                    <fig id="fig_jsj_bzw_3tb">
+                        <title>Occupation</title>
+                        <image href="../Skriny/Instalacja/Screenshot_20220325-162002_Mimo.jpg"
+                            width="150" height="300" id="image_ksj_bzw_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Swipe to one of the following options to determine the level of your
+                    experience:</cmd>
+                <info>
+                    <ul id="ul_kfl_rjs_zsb">
+                        <li>None</li>
+                        <li>A little</li>
+                        <li>A lot.</li>
+                    </ul>
+                    <fig id="fig_pg4_dzw_3tb">
+                        <title>Experience</title>
+                        <image href="../Skriny/Instalacja/Screenshot_20220325-162017_Mimo.jpg"
+                            width="150" height="300" id="image_qg4_dzw_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Select one of the following options to state what you want to learn:</cmd>
+                <info>
+                    <ul id="ul_vsq_rks_zsb">
+                        <li>Web development</li>
+                        <li>Python</li>
+                        <li>SQL.</li>
+                    </ul>
+                    <fig id="fig_e3q_3zw_3tb">
+                        <title>Paths</title>
+                        <image href="../Skriny/Instalacja/Screenshot_20220325-162027_Mimo.jpg"
+                            width="150" height="300" id="image_f3q_3zw_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Choose one of the following options in order to set the goal:</cmd>
+                <info>
+                    <ul id="ul_mxp_fls_zsb">
+                        <li>Casual (5 minutes of learning daily)</li>
+                        <li>Regular(10 minutes of learning daily)</li>
+                        <li>Serious(20 minutes of learning daily).</li>
+                    </ul>
+                    <fig id="fig_ij4_2bx_3tb">
+                        <title>Goal</title>
+                        <image href="../Skriny/Instalacja/Screenshot_20220325-162047_Mimo.jpg"
+                            width="150" height="300" id="image_jj4_2bx_3tb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Set a time for a daily reminder.</cmd>
+                <info>
+                    <fig id="fig_tk1_jbx_3tb">
+                        <title>Reminder</title>
+                        <image href="../Skriny/Instalacja/Screenshot_20220325-162112_Mimo.jpg"
+                            width="150" height="300" id="image_uk1_jbx_3tb"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

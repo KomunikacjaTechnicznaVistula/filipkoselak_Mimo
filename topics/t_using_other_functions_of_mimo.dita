@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_using_other_funtions_of_mimo">
+    <title>Using other functions of Mimo</title>
+    <shortdesc>How to access additional functions of Mimo (leaderboard, community, mimo store,
+        activity calendar,playground)</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Leaderboard</cmd>
+                <substeps id="substeps_b5y_rpn_ftb">
+                    <substep>
+                        <cmd>To access the leaderboard click on the "cup" icon below.</cmd>
+                        <info>
+                            <fig id="fig_vtz_jbd_jtb">
+                                <title>Accessing leaderboard</title>
+                                <image
+                                    href="../Skriny/elements/Screenshot_20220428-103349_Mimo%20-%20C%C3%B3pia.jpg"
+                                    width="150" height="300" id="image_wtz_jbd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Now you can see your league and your rank.</cmd>
+                        <info>
+                            <fig id="fig_z3x_lbd_jtb">
+                                <title>Leaderboard</title>
+                                <image href="../Skriny/elements/Mimo_leaderboard.jpg" width="150"
+                                    height="300" id="image_ajx_lbd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Community</cmd>
+                <substeps id="substeps_a3d_pqn_ftb">
+                    <substep>
+                        <cmd>Click on "Community" icon below to acces the forum.</cmd>
+                        <info>
+                            <fig id="fig_wgq_4bd_jtb">
+                                <title>Accessing community</title>
+                                <image
+                                    href="../Skriny/elements/Screenshot_20220428-103349_Mimo%20-%20C%C3%B3pia%20(2).jpg"
+                                    width="150" height="300" id="image_xgq_4bd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Now you can search for any topic on a community forum.</cmd>
+                        <info>
+                            <fig id="fig_mhj_sbd_jtb">
+                                <title>Community</title>
+                                <image href="../Skriny/elements/Mimo_elements_community.jpg"
+                                    width="150" height="300" id="image_nhj_sbd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Mimo Store</cmd>
+                <substeps id="substeps_ugn_xdd_jtb">
+                    <substep>
+                        <cmd>Click on the "coin" icon to access Mimo Store.</cmd>
+                        <info>
+                            <p>
+                                <fig id="fig_fdk_vdd_jtb">
+                                    <title>Accessing Mimo Store</title>
+                                    <image
+                                        href="../Skriny/elements/Screenshot_20220428-103349_Mimo%20-%20C%C3%B3pia%20(4).jpg"
+                                        width="150" height="300" id="image_gdk_vdd_jtb"/>
+                                </fig>
+                            </p>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Now you can see the Mimo Store.</cmd>
+                        <info>
+                            <fig id="fig_yq2_rfd_jtb">
+                                <title>Mimo Store</title>
+                                <image href="../Skriny/elements/Screenshot_20220428-111703_Mimo.jpg"
+                                    width="150" height="300" id="image_zq2_rfd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Activity</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click on the "flame" icon to acces Activity Calendar.</cmd>
+                        <info>
+                            <fig id="fig_mhm_j2d_jtb">
+                                <title>Accessing Activity</title>
+                                <image
+                                    href="../Skriny/elements/Screenshot_20220428-103349_Mimo%20-%20C%C3%B3pia%20(5).jpg"
+                                    width="150" height="300" id="image_nhm_j2d_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Now you can see the Activity Calendar.</cmd>
+                        <info>
+                            <fig id="fig_vqg_vfd_jtb">
+                                <title>Activity Calendar</title>
+                                <image href="../Skriny/elements/Screenshot_20220428-111718_Mimo.jpg"
+                                    width="150" height="300" id="image_wqg_vfd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Playground</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Click on the "profile" tab to access playgrounds.</cmd>
+                        <info>
+                            <fig id="fig_wd5_ngd_jtb">
+                                <title>Acessing playgrounds</title>
+                                <image
+                                    href="../Skriny/elements/Screenshot_20220428-103349_Mimo%20-%20C%C3%B3pia%20(6).jpg"
+                                    width="150" height="300" id="image_xd5_ngd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Click on "CREATE" button to create a playground.</cmd>
+                        <info>
+                            <fig id="fig_nz2_zgd_jtb">
+                                <title>Creating a playground</title>
+                                <image href="../Skriny/elements/Screenshot_20220428-103407_Mimo.jpg"
+                                    width="150" height="300" id="image_oz2_zgd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Select a template from: Python program, JavaScript program, Simple
+                            website and React app.</cmd>
+                        <info>
+                            <fig id="fig_pyf_4hd_jtb">
+                                <title>Selecting a template</title>
+                                <image href="../Skriny/elements/Screenshot_20220428-103413_Mimo.jpg"
+                                    width="150" height="300" id="image_qyf_4hd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>You can code anything you want in the playground.</cmd>
+                        <info>
+                            <fig id="fig_e5r_xhd_jtb">
+                                <title>Playground</title>
+                                <image href="../Skriny/elements/Screenshot_20220428-103434_Mimo.jpg"
+                                    width="150" height="300" id="image_f5r_xhd_jtb"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
